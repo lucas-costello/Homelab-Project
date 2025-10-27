@@ -1,8 +1,21 @@
----
-Title: ROCK 5C Homelab Server
-Author: Lucas Costello
-last_updated: 2025-10-27
----
+<div align="center">
+  <table style="border-collapse:collapse;width:100%;">
+    <thead>
+      <tr style="background-color:#f5f5f5;" align="center">
+        <th style="border:1px solid #ddd;padding:8px;text-align:center;">Title:</th>
+        <th style="border:1px solid #ddd;padding:8px;text-align:center;">Author:</th>
+        <th style="border:1px solid #ddd;padding:8px;text-align:center;">last_updated:</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background-color:#ffffff;" align="center">
+        <td style="border:1px solid #ddd;padding:8px;text-align:center;">ROCK 5C Home Server</td>
+        <td style="border:1px solid #ddd;padding:8px;text-align:center;">Lucas Costello</td>
+        <td style="border:1px solid #ddd;padding:8px;text-align:center;">2025-10-7</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div align="justify">
 In this documentation, I will cover the step by step process of setting up a home server using the Radxa ROCK 5C. This server will allow for the global use of services such as <a href="https://www.plex.tv/watch-free/">Plex</a> and <a href="https://github.com/nextcloud/all-in-one?tab=readme-ov-file#are-reverse-proxies-supported">Nextcloud</a> (cloud storage). Additionally, this server will make use of services including <a href="https://github.com/qbittorrent/qBittorrent">qBittorrent</a> and media managers <a href="https://radarr.video/">Radarr</a>, <a href="https://sonarr.tv/">Sonarr</a>, and <a href="https://prowlarr.com/">Prowlarr</a>. All of these services will be ran in <a href="https://www.openmediavault.org/">Open Media Vault</a> using <a href="https://www.docker.com/products/docker-desktop/">Docker</a> and managed using <a href="https://github.com/portainer/portainer">Portainer</a>. Additionally, this server will make use of <a href="https://radarr.video/">Cloudflare Tunnels</a>, allowing it to reliably host services over CGNAT. 
@@ -213,3 +226,4 @@ In this documentation, I will cover the step by step process of setting up a hom
 <br/>
 
 <a href="1_Assembly.md"><strong>Next → Assembly.md</strong></a>
+
