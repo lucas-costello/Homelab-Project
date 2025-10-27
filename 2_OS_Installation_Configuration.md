@@ -132,8 +132,9 @@
         <li>For this setup, select RAID Z1 to allow for recoverability while maximizing disk space.</li>
       </ul>
     </details>
+    <a id="pool-type"></a>
     <details open>
-      <summary><h4 id="pool-type">Pool Type:</h4></summary>
+      <summary><h4>Pool Type:</h4></summary>
       <div style="overflow-x:auto;">
         <table style="border-collapse:collapse;width:100%;">
           <thead>
@@ -211,6 +212,7 @@
     </ul>
   </div>
 </details>
+
 
 
 
