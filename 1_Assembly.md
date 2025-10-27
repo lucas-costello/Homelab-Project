@@ -14,7 +14,7 @@ Other than that, use the images provided to assemble the components.
 - Apply the silicone sheet and attach the heatsink/fan unit. 
 - Refer to the image for a visual on how to place the unit, route the wires, and which connector to use. 
 
-![[/bin/images/assembly_heatsink.png|alt=Heatsink-Installation]]
+![[bin/images/assembly_heatsink.png]]
 
 
 (Source: [Arace](https://arace.tech/products/radxa-heatsink-6540b-for-rock-5c?_pos=1&_psq=rock+5c+fan&_ss=e&_v=1.0))
@@ -44,3 +44,4 @@ Other than that, use the images provided to assemble the components.
 
 
 (Source: [Amazon](https://a.co/d/fXJQHji))
+
