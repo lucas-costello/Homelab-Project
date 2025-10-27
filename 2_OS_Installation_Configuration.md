@@ -195,10 +195,11 @@
 </details>
 
 <!-- Extra Guides -->
+<a id="finding-device-ip-using-zenmap"></a>
 <details open>
   <summary><h2 id="extra-guides" style="display:inline;">Extra Guides</h2></summary>
   <div align="justify" style="margin-top:8px;">
-    <h3 id="finding-device-ip-using-zenmap">Finding Device IP Using Zenmap:</h3>
+    <h3>Finding Device IP Using Zenmap:</h3>
     <ul>
       <li>If the IP of the ROCK 5C can’t be determined from the router’s admin panel, <a href="https://nmap.org/">Zenmap</a> can be used from a PC to scan for devices on the network.</li>
       <li>Open a command prompt and run <code>ipconfig</code> to view your current IPv4 address. For this example, assume <code>192.168.10.XXX</code>.</li>
@@ -210,5 +211,6 @@
     </ul>
   </div>
 </details>
+
 
 
