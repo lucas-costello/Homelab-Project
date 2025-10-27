@@ -11,7 +11,7 @@
       <tr style="background-color:#ffffff;" align="center">
         <td style="border:1px solid #ddd;padding:8px;text-align:center;">ROCK 5C Home Server</td>
         <td style="border:1px solid #ddd;padding:8px;text-align:center;">Lucas Costello</td>
-        <td style="border:1px solid #ddd;padding:8px;text-align:center;">2025-10-7</td>
+        <td style="border:1px solid #ddd;padding:8px;text-align:center;">2025-10-27</td>
       </tr>
     </tbody>
   </table>
@@ -226,4 +226,5 @@ In this documentation, I will cover the step by step process of setting up a hom
 <br/>
 
 <a href="1_Assembly.md"><strong>Next → Assembly.md</strong></a>
+
 
