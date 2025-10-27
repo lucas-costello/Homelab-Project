@@ -124,7 +124,7 @@ sudo apt autoremove -y</code></pre>
     <div style="overflow-x:auto;">
       <table style="border-collapse:collapse;width:100%;">
         <thead>
-          <tr style="background-color:#f5f5f5;">
+          <tr style="background-color:#f5f5f5;"  align="center">
             <th style="border:1px solid #ddd;padding:8px;text-align:center;">Type Name</th>
             <th style="border:1px solid #ddd;padding:8px;text-align:center;">Min. Drives Required</th>
             <th style="border:1px solid #ddd;padding:8px;text-align:center;">Parity Drives</th>
@@ -133,7 +133,7 @@ sudo apt autoremove -y</code></pre>
             <th style="border:1px solid #ddd;padding:8px;text-align:center;">Recommended For</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody  align="center">
           <tr>
             <td style="border:1px solid #ddd;padding:8px;text-align:center;">Basic</td>
             <td style="border:1px solid #ddd;padding:8px;text-align:center;">1</td>
@@ -196,3 +196,4 @@ sudo apt autoremove -y</code></pre>
     </ul>
   </div>
 </details>
+
