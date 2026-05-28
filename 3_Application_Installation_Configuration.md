@@ -527,3 +527,4 @@ services:
 |       Sonarr       |   8989   |
 |    Uptime Kuma     |   3001   |
 |     Watchtower     |   7272   |
+
